@@ -1,0 +1,20 @@
+/* style.css */
+body {
+ background-color:deepskyblue;
+ color: #FFFFFF;
+}
+h1 {
+ color: deepskyblue;
+ text-align: center;
+ font: bold 300% impossible;
+ background-color: white;
+}
+h2{
+  font-size: 35;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+p {
+ color: #333300;
+ text-align: left;
+ font-size: 25;
+}
