@@ -31,3 +31,11 @@ p {
   height: 120px;
   margin:-60px 0 0 -60px;
 }
+#logo{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 120px;
+  height: 120px;
+  margin:-60px 0 0 -60px;
+ }
