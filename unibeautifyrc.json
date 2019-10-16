@@ -1,0 +1,28 @@
+{
+  "CSS": {
+    "beautifiers": [
+      "Prettier",
+      "Pretty Diff",
+      "JS-Beautify"
+    ],
+    "end_with_semicolon": true
+  },
+  "HTML": {
+    "beautifiers": [
+      "Pretty Diff",
+      "JS-Beautify"
+    ],
+    "force_indentation": false,
+    "indent_scripts": "keep",
+    "newline_before_tags": []
+  },
+  "JavaScript": {
+    "beautifiers": [
+      "Prettier",
+      "Pretty Diff",
+      "JS-Beautify",
+      "ESLint"
+    ],
+    "pragma_insert": true
+  }
+}
