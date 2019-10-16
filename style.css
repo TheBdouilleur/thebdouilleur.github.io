@@ -1,5 +1,5 @@
 /* style.css */
-
+/* TODO:  */
 body {
  background-color:deepskyblue;
  color: #FFFFFF;
@@ -12,7 +12,7 @@ h1 {
 }
 h2{
   font-size: 35;
-  font-family:'Arial Narrow Bold', sans-serif
+  font-family:GothamRounded, 'Arial Narrow Bold', sans-serif
 }
 h3{
   font-size: 26
