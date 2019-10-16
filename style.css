@@ -13,17 +13,20 @@ h1 {
 h2{
   font-size: 35;
   font-family:GothamRounded, Consolas, 'Arial Narrow Bold', sans-serif;
+  text-align: center
 }
 h3{
   font-size: 26;
+  text-align: center;
 }
 p {
  color: white;
- text-align: left;
+ text-align: center;
  font-size: 25;
 }
 span{
   font-size: 12;
+  text-align: center;
 }
 #title{
   font-size: 100;
