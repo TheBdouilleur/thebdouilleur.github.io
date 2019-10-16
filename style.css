@@ -1,5 +1,5 @@
 /* style.css */
-/* TODO:  */
+/* TODO: keyword fonts instead of px*/
 body {
  background-color:deepskyblue;
  color: #FFFFFF;
@@ -12,10 +12,10 @@ h1 {
 }
 h2{
   font-size: 35;
-  font-family:GothamRounded, Consolas, 'Arial Narrow Bold', sans-serif
+  font-family:GothamRounded, Consolas, 'Arial Narrow Bold', sans-serif;
 }
 h3{
-  font-size: 26
+  font-size: 26;
 }
 p {
  color: white;
@@ -23,10 +23,10 @@ p {
  font-size: 25;
 }
 span{
-  font-size: 12
+  font-size: 12;
 }
 #title{
-  font-size: 100
+  font-size: 100;
 }
 
 .icons{
